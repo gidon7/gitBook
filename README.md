@@ -1,3 +1,3 @@
 # GitBook test
 
-안녕하세
+안녕하세요
