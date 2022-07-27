@@ -1,3 +1,3 @@
-# Table of contents
+# Summary
 
 * [GitBook test](README.md)
