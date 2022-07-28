@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
-* [GitBook test](README.md)
-  * [Page 1](readme/page-1.md)
+- [GitBook test](README.md)
+  - [Page 1](readme/page-1.md)
